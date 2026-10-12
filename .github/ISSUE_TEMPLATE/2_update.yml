@@ -1,0 +1,25 @@
+name: Correct a meeting
+description: Report a wrong date, deadline, location, price or other detail.
+title: "[Update] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Meeting name as shown on the tracker
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change
+      placeholder: The poster abstract deadline is now March 1, 2027.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Link that shows the correct information
+      description: Ideally the official meeting page.
+      placeholder: https://
+    validations:
+      required: true

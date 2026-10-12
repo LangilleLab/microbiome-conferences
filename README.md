@@ -11,7 +11,7 @@ A filterable list of upcoming microbiome and microbiology meetings, with abstrac
 
 ## Suggest a meeting or a correction
 
-Open an issue with the meeting name, its official link, and what should change.
+Use the [issue forms](https://github.com/LangilleLab/microbiome-conferences/issues/new/choose) to suggest a meeting, correct a detail, or request a removal. Each request is checked against the official meeting page during the next scheduled update, which replies on the issue and closes it. You can also edit `conferences.json` directly in a pull request; run `python3 validate.py` first.
 
 ## License
 

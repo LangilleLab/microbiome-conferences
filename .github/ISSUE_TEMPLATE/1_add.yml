@@ -1,0 +1,63 @@
+name: Suggest a meeting
+description: Add a microbiome or microbiology conference, symposium, course or workshop.
+title: "[Add] "
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping keep the list complete. Please link the official meeting page so the details can be checked.
+  - type: input
+    id: name
+    attributes:
+      label: Meeting name
+      placeholder: International Symposium on Microbial Ecology (ISME21)
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official meeting page
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Dates
+      description: Exact dates, or the expected month and year if not yet announced.
+      placeholder: June 22 to 25, 2027
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: City and country, or Online
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Conference
+        - Course/Workshop
+    validations:
+      required: true
+  - type: dropdown
+    id: format
+    attributes:
+      label: Format
+      options:
+        - In person
+        - Hybrid
+        - Virtual
+        - Not sure
+  - type: textarea
+    id: deadlines
+    attributes:
+      label: Abstract or application deadlines
+      description: Include any you know, with dates.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Organizer, expected size, registration cost, travel awards.

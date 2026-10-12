@@ -1,0 +1,28 @@
+name: Remove a meeting
+description: Report a meeting that was cancelled, is out of scope, or should not be listed.
+title: "[Remove] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Meeting name as shown on the tracker
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Reason
+      options:
+        - Cancelled or postponed
+        - Not related to microbiome or microbiology
+        - Predatory or misleading organizer
+        - Duplicate entry
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details and a supporting link
+    validations:
+      required: true

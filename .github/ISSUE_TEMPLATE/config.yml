@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: View the tracker
+    url: https://langillelab.github.io/microbiome-conferences/
+    about: Browse the current list of meetings.
