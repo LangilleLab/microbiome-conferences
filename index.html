@@ -54,7 +54,8 @@ input[type=search]{flex:1 1 240px}
 .toggle{display:flex;gap:6px;align-items:center;font-size:.9rem;cursor:pointer}
 .count{font-size:.9rem;color:var(--muted)}
 .reset{font:inherit;font-size:.85rem;background:none;border:0;color:var(--accent);cursor:pointer;text-decoration:underline;padding:0}
-.seg{display:inline-flex;border:1px solid var(--line);border-radius:6px;overflow:hidden;margin-left:auto}
+.viewctl{display:flex;align-items:center;gap:8px;margin-left:auto}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:6px;overflow:hidden}
 .seg button{font:inherit;font-size:.85rem;border:0;background:var(--bg);color:var(--fg);padding:6px 12px;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--accent);color:var(--surface)}
 
@@ -110,7 +111,7 @@ footer{font-size:.85rem;color:var(--muted);border-top:1px solid var(--line);padd
 @media (max-width:820px){
   .item{grid-template-columns:72px 1fr}
   .side{grid-column:1 / -1;border-top:1px solid var(--line);padding-top:10px}
-  .seg{margin-left:0}
+  .viewctl{margin-left:0}
 }
 @media (max-width:440px){
   .wrap{padding-inline:16px}
@@ -165,9 +166,12 @@ footer{font-size:.85rem;color:var(--muted);border-top:1px solid var(--line);padd
       <label class="toggle" for="openOnly"><input type="checkbox" id="openOnly"> Still possible to submit (open or not yet opened)</label>
       <span class="count" id="count"></span>
       <button class="reset" id="reset" type="button">Clear filters</button>
-      <div class="seg" role="group" aria-label="View">
-        <button type="button" id="vCards" aria-pressed="true">Cards</button>
-        <button type="button" id="vCompact" aria-pressed="false">Compact</button>
+      <div class="viewctl">
+        <span class="label" id="viewLabel">View</span>
+        <div class="seg" role="group" aria-labelledby="viewLabel">
+          <button type="button" id="vCards" aria-pressed="true">Expanded</button>
+          <button type="button" id="vCompact" aria-pressed="false">Compact</button>
+        </div>
       </div>
     </div>
   </section>
@@ -186,7 +190,7 @@ let VERIFIED = "";
 
 let DATA = [];
 
-fetch("conferences.json",{cache:"no-store"}).then(r=>r.json()).then(j=>{DATA=j.conferences;VERIFIED=j.last_verified;
+fetch("conferences.json",{cache:"no-store"}).then(r=>r.json()).then(j=>{DATA=j.conferences.filter(c=>c.start||c.approx);VERIFIED=j.last_verified;
 document.getElementById("verifiedLabel").textContent=VERIFIED;
 const SIZE_ORDER = ["Under 100","100 to 500","500 to 2000","Over 2000"];
 const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];

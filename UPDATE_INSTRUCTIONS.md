@@ -10,7 +10,7 @@ List academic, society and nonprofit meetings focused on the microbiome, plus ma
 
 1. Read `conferences.json`.
 2. For each entry whose meeting has not ended, open its `url` (or `src` if the url fails) and check dates, location, format, every deadline, price and size. Update anything that changed. When nothing changed, still set that entry's `verified` to today.
-3. Fill gaps when the official page now has them: a deadline that was `tba`, a price band that was "Not yet checked", dates for an `expect` entry. When an expected meeting gets real dates, add `start` and `end`, remove `expect` and `approx`.
+3. Fill gaps when the official page now has them: a deadline that was `tba`, a price band that was "Not yet checked", dates for an `expect` entry. When an expected meeting gets real dates, add `start` and `end`, remove `expect` and `approx`. An entry with neither `start` nor `approx` is a watch list item: it stays in the data but is hidden on the website. Give it an `approx` date (and a matching `expect` note such as "Expected September 2027") as soon as a reliable source states the rough month and year, which makes it appear on the site.
 4. Remove entries whose `end` date is more than 30 days in the past. For a recurring series, add the next edition as an `expect` entry if it is not already listed.
 5. Look for new meetings in the next 24 months. Check the Keystone, GRC, EMBO and EMBL, Cell Symposia, CSHL, Wellcome Connecting Science, FEMS, ISME, ASM and CSM event listings, plus a few web searches such as "microbiome conference 2027" and "microbiome symposium abstract deadline". Add any that fit the scope.
 6. Set `last_verified` at the top of the file to today.
