@@ -1,0 +1,663 @@
+{
+  "last_verified": "2026-10-12",
+  "conferences": [
+    {
+      "name": "Immunomodulatory Microbiota in Health and Disease",
+      "series": "Keystone Symposia",
+      "org": "Keystone Symposia",
+      "orgType": "Nonprofit",
+      "start": "2027-03-07",
+      "end": "2027-03-10",
+      "city": "Banff, AB",
+      "country": "Canada",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Short talk abstract",
+          "d": "2026-11-11"
+        },
+        {
+          "k": "Scholarship",
+          "d": "2026-11-11"
+        },
+        {
+          "k": "Early registration",
+          "d": "2027-01-06"
+        },
+        {
+          "k": "Poster abstract",
+          "d": "2027-02-15"
+        }
+      ],
+      "topics": [
+        "Immunology",
+        "Host microbe interactions"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Held jointly with Early Life Immunity and Tolerance. Scholarships and discounted student rates available.",
+      "url": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/L62027",
+      "src": "https://www.keystonesymposia.org/digital-toolkit/L62027"
+    },
+    {
+      "name": "Advancing Women's Health: Vaginal Microbiome Science and Innovation",
+      "series": "Keystone Symposia",
+      "org": "Keystone Symposia",
+      "orgType": "Nonprofit",
+      "start": "2027-04-07",
+      "end": "2027-04-10",
+      "city": "Singapore",
+      "country": "Singapore",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Scholarship (abstract due)",
+          "d": "2026-12-10"
+        },
+        {
+          "k": "Early registration",
+          "d": "2027-02-08"
+        },
+        {
+          "k": "Poster abstract",
+          "d": "2027-03-17"
+        }
+      ],
+      "topics": [
+        "Women's health",
+        "Clinical and translational"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Scholarship applicants need an abstract and a mentor letter by the scholarship deadline. Early registration saves $250.",
+      "url": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/G12027",
+      "src": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/deadlines/G12027"
+    },
+    {
+      "name": "Microbial metagenomics: a 360º approach",
+      "series": "EMBO Practical Course",
+      "org": "EMBO and EMBL",
+      "orgType": "Nonprofit",
+      "type": "Course/Workshop",
+      "start": "2027-04-05",
+      "end": "2027-04-12",
+      "city": "Heidelberg",
+      "country": "Germany",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Application",
+          "d": "2026-11-30"
+        }
+      ],
+      "topics": [
+        "Methods and bioinformatics"
+      ],
+      "size": "Under 100",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Hands on training course. Places are selective.",
+      "url": "https://s.embl.org/met27-010",
+      "src": "https://www.embl.org/about/info/course-and-conference-office/wp-content/uploads/MET27-01_Poster_A3_20260706_digital.pdf"
+    },
+    {
+      "name": "FEMS MICRO Ljubljana 2027",
+      "series": "FEMS MICRO Congress",
+      "org": "Federation of European Microbiological Societies",
+      "orgType": "Society",
+      "start": "2027-07-05",
+      "end": "2027-07-08",
+      "city": "Ljubljana",
+      "country": "Slovenia",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": "2026-12-15"
+        }
+      ],
+      "topics": [
+        "General microbiology",
+        "Ecology and evolution"
+      ],
+      "size": "Over 2000",
+      "sizeSrc": "pub",
+      "price": "$500 to $1000",
+      "priceSrc": "est",
+      "note": "Biennial. FEMS grants and awards can be requested when submitting an abstract. The 2025 congress drew over 2000 participants from more than 95 countries.",
+      "url": "https://www.femsmicro.org/",
+      "src": "https://www.smd.si/?p=2994"
+    },
+    {
+      "name": "Pharmabiotics Conference 2027",
+      "series": "Pharmabiotics",
+      "org": "Pharmabiotic Research Institute",
+      "orgType": "Nonprofit",
+      "start": "2027-02-01",
+      "end": "2027-02-03",
+      "city": "Brussels",
+      "country": "Belgium",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced (Nov 15 last year)"
+        }
+      ],
+      "topics": [
+        "Therapeutics and regulation",
+        "Clinical and translational"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "11th edition. Focus on development and regulation of microbiome based medicines, with academic, industry and regulator speakers.",
+      "url": "https://pharmabiotic.org/pharmabiotics-conference/",
+      "src": "https://www.pharmabioticsevent.com/upload/Sponsorship%20Invitation.pdf"
+    },
+    {
+      "name": "Gut Microbiota for Health Conference 2027",
+      "series": "BSG",
+      "org": "British Society of Gastroenterology",
+      "orgType": "Society",
+      "start": "2027-03-01",
+      "end": "2027-03-02",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Human gut",
+        "Clinical and translational"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "One and a half day meeting aimed at gastroenterologists, clinicians and researchers.",
+      "url": "https://www.bsg.org.uk/events/bsg-gut-microbiota-for-health-conference-2027",
+      "src": "https://www.bsg.org.uk/events/bsg-gut-microbiota-for-health-conference-2027"
+    },
+    {
+      "name": "Gut Microbiota for Health World Summit 2027",
+      "series": "GMFH World Summit",
+      "org": "ESNM, endorsed by AGA",
+      "orgType": "Society",
+      "start": null,
+      "expect": "Expected March 2027",
+      "approx": "2027-03-14",
+      "city": "To be announced",
+      "country": "",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced (mid Feb last year)"
+        }
+      ],
+      "topics": [
+        "Human gut",
+        "Clinical and translational",
+        "Probiotics and diet"
+      ],
+      "size": "500 to 2000",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Annual summit held each March (Porto 2026, Washington 2025).",
+      "url": "https://www.gutmicrobiotaforhealth.com/",
+      "src": "https://www.esnm.eu/gut-microbiota-for-health.html"
+    },
+    {
+      "name": "Microbiology Society Annual Conference 2027",
+      "series": "Microbiology Society",
+      "org": "Microbiology Society",
+      "orgType": "Society",
+      "start": "2027-04-12",
+      "end": "2027-04-15",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "General microbiology"
+      ],
+      "size": "500 to 2000",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Four days at ICC Birmingham. Members receive heavily subsidised registration.",
+      "url": "https://microbiologysociety.org/event/annual-conference-2027-register-interest.html",
+      "src": "https://microbiologysociety.org/event/annual-conference-2027-register-interest.html"
+    },
+    {
+      "name": "15th International Gut Microbiology Symposium",
+      "series": "Rowett and INRAE Gut Microbiology Symposium",
+      "org": "Rowett Institute (Aberdeen) and INRAE",
+      "orgType": "Academic",
+      "start": "2027-06-01",
+      "end": "2027-06-03",
+      "city": "Aberdeen",
+      "country": "United Kingdom",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Human gut",
+        "Animal and One Health",
+        "Methods and bioinformatics"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "pub",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Biennial. Covers gut microbiology of humans, farm animals, birds and fish, plus genomics and metagenomics methods. Typically 200 to 400 delegates.",
+      "url": "https://www.abdn.ac.uk/media/site/events/cpd-amp-event-services/gut-micro-2027/15th-International-Gut-Microbiology-Symposium-Sponsorship-Prospectus.pdf",
+      "src": "https://www.abdn.ac.uk/media/site/events/cpd-amp-event-services/gut-micro-2027/15th-International-Gut-Microbiology-Symposium-Sponsorship-Prospectus.pdf"
+    },
+    {
+      "name": "The Barcelona Debates on the Human Microbiome",
+      "series": "Barcelona Debates",
+      "org": "IrsiCaixa",
+      "orgType": "Academic",
+      "start": "2027-06-10",
+      "end": "2027-06-11",
+      "city": "Barcelona",
+      "country": "Spain",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced (late March last year)"
+        }
+      ],
+      "topics": [
+        "Human gut",
+        "Clinical and translational"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "pub",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "13th edition. The 2026 meeting had over 200 participants, and every accepted abstract was presented as a poster flash talk.",
+      "url": "https://bcnmicrobiome.com/",
+      "src": "https://bcnmicrobiome.com/"
+    },
+    {
+      "name": "ASM Microbe 2027",
+      "series": "ASM Microbe",
+      "org": "American Society for Microbiology",
+      "orgType": "Society",
+      "start": "2027-06-22",
+      "end": "2027-06-25",
+      "city": "Chicago, IL",
+      "country": "United States",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "General microbiology",
+        "Clinical and translational"
+      ],
+      "size": "Over 2000",
+      "sizeSrc": "est",
+      "price": "$500 to $1000",
+      "priceSrc": "est",
+      "note": "Largest annual microbiology meeting, at McCormick Place. Broad scope with substantial microbiome content.",
+      "url": "https://asm.org/",
+      "src": "https://world-wide.org/conference/asm-microbe-2027"
+    },
+    {
+      "name": "Canadian Society of Microbiologists Annual Conference 2027",
+      "series": "CSM Annual Conference",
+      "org": "Canadian Society of Microbiologists",
+      "orgType": "Society",
+      "start": null,
+      "expect": "Expected June 2027",
+      "approx": "2027-06-15",
+      "city": "To be announced",
+      "country": "Canada",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "General microbiology",
+        "Ecology and evolution",
+        "Host microbe interactions"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Annual meeting, usually in mid June. Sections cover applied and environmental microbiology, infection and immunity, and molecular genetics. Trainee talks selected from abstracts.",
+      "url": "https://csm-scm.org/",
+      "src": "https://epic.utoronto.ca/?p=7669"
+    },
+    {
+      "name": "International Probiotics Conference (IPC 2027)",
+      "series": "IPC",
+      "org": "NutraIngredients",
+      "orgType": "Commercial",
+      "start": "2027-06-22",
+      "end": "2027-06-24",
+      "city": "Krakow",
+      "country": "Poland",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Probiotics and diet",
+        "Therapeutics and regulation"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Over $1000",
+      "priceSrc": "est",
+      "note": "Long running scientific conference, run by a trade publisher since 2026. Mixed academic and industry audience.",
+      "url": "https://www.nutraingredients.com/Events/international-probiotics-conference-2027-ipc/",
+      "src": "https://www.nutraingredients.com/Events/international-probiotics-conference-2027-ipc/"
+    },
+    {
+      "name": "New Approaches and Concepts in Microbiology",
+      "series": "EMBO | EMBL Symposium",
+      "org": "EMBO and EMBL",
+      "orgType": "Nonprofit",
+      "start": "2027-06-22",
+      "end": "2027-06-25",
+      "city": "Heidelberg",
+      "country": "Germany",
+      "format": "Hybrid",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Registration not yet open"
+        }
+      ],
+      "topics": [
+        "General microbiology",
+        "Methods and bioinformatics"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Biennial, 8th edition. Bacterial communities and microbiomes, with an emphasis on new technologies from systems to single cell.",
+      "url": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-07",
+      "src": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-07"
+    },
+    {
+      "name": "Microbial Population Biology GRC",
+      "series": "Gordon Research Conferences",
+      "org": "Gordon Research Conferences",
+      "orgType": "Nonprofit",
+      "start": "2027-06-27",
+      "end": "2027-07-02",
+      "city": "Andover, NH",
+      "country": "United States",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Application",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Ecology and evolution"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Biennial. Attendance is by application, and the fee usually covers lodging and meals.",
+      "url": "https://www.grc.org/microbial-population-biology-conference/",
+      "src": "https://cairibu.urology.wisc.edu/event/microbial-population-biology-grc-meeting/"
+    },
+    {
+      "name": "International Meeting on Microbial Genomes (Lake Arrowhead)",
+      "series": "Lake Arrowhead Microbial Genomes",
+      "org": "Microbial genomics community organizers",
+      "orgType": "Academic",
+      "start": null,
+      "expect": "Next edition not yet announced",
+      "approx": null,
+      "city": "Lake Arrowhead, CA",
+      "country": "United States",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Methods and bioinformatics",
+        "Ecology and evolution"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Long running microbial genomics meeting. The 21st meeting was held September 18 to 22, 2024. Watch for the next announcement.",
+      "url": "https://microbe.net/tag/lamg",
+      "src": "https://microbe.net/tag/lamg"
+    },
+    {
+      "name": "The Peer Bork Symposium on the Human Microbiome",
+      "series": "EMBO | EMBL Symposium",
+      "org": "EMBO and EMBL",
+      "orgType": "Nonprofit",
+      "start": "2027-09-14",
+      "end": "2027-09-17",
+      "city": "Heidelberg",
+      "country": "Germany",
+      "format": "Hybrid",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Registration not yet open"
+        }
+      ],
+      "topics": [
+        "Human gut",
+        "Methods and bioinformatics",
+        "Host microbe interactions"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Dedicated to the memory of Peer Bork, who helped shape this series from its first meeting in 2018. Known for unpublished work.",
+      "url": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-08/",
+      "src": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-08/"
+    },
+    {
+      "name": "12th International Human Microbiome Consortium Congress (IHMC)",
+      "series": "IHMC Congress",
+      "org": "International Human Microbiome Consortium",
+      "orgType": "Academic",
+      "start": null,
+      "expect": "Expected 2028",
+      "approx": "2028-06-01",
+      "city": "To be announced",
+      "country": "",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Human gut",
+        "Methods and bioinformatics",
+        "Clinical and translational"
+      ],
+      "size": "500 to 2000",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Biennial congress. The 10th was held in Italy in 2024 and the 11th in 2026. Next location not yet announced.",
+      "url": "https://blog.microbiomeinsights.com/microbiome-conferences-2026",
+      "src": "https://blog.microbiomeinsights.com/microbiome-conferences-2026"
+    },
+    {
+      "name": "Canadian Society of Microbiologists Annual Conference 2028",
+      "series": "CSM Annual Conference",
+      "org": "Canadian Society of Microbiologists",
+      "orgType": "Society",
+      "start": "2028-06-18",
+      "end": "2028-06-21",
+      "city": "Québec City, QC",
+      "country": "Canada",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "General microbiology",
+        "Ecology and evolution",
+        "Host microbe interactions"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Confirmed at the Québec City Convention Centre.",
+      "url": "https://csm-scm.org/",
+      "src": "https://www.convention.qc.ca/en/event-calendar/csm-annual-conference-2028/"
+    },
+    {
+      "name": "21st International Symposium on Microbial Ecology (ISME21)",
+      "series": "ISME Symposium",
+      "org": "International Society for Microbial Ecology",
+      "orgType": "Society",
+      "start": null,
+      "expect": "Expected August 2028",
+      "approx": "2028-08-15",
+      "city": "To be announced",
+      "country": "",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Ecology and evolution",
+        "Animal and One Health",
+        "Methods and bioinformatics"
+      ],
+      "size": "500 to 2000",
+      "sizeSrc": "pub",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Biennial, held in even years, usually in August. A typical symposium has about 2000 attendees, 2100 abstracts and around 80 travel awards.",
+      "url": "https://www.isme-microbes.org/symposia",
+      "src": "https://fems-microbiology.org/?p=37108"
+    },
+    {
+      "name": "Microbiome (Cold Spring Harbor Meeting)",
+      "series": "CSHL Meetings",
+      "org": "Cold Spring Harbor Laboratory",
+      "orgType": "Academic",
+      "start": "2026-10-27",
+      "end": "2026-10-31",
+      "city": "Cold Spring Harbor, NY",
+      "country": "United States",
+      "format": "Hybrid",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": "2026-08-07"
+        }
+      ],
+      "topics": [
+        "Host microbe interactions",
+        "Ecology and evolution",
+        "Therapeutics and regulation"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not yet checked",
+      "priceSrc": "",
+      "note": "Fifth meeting in the series. Some non presenting participants can attend virtually at a reduced fee.",
+      "url": "https://meetings.cshl.edu/meetings.aspx?meet=BIOME",
+      "src": "https://meetings.cshl.edu/meetings.aspx?meet=BIOME"
+    },
+    {
+      "name": "Microbiome Virtual International Forum (MVIF)",
+      "series": "MVIF",
+      "org": "MVIF organizing team",
+      "orgType": "Academic",
+      "start": "2026-12-15",
+      "end": "2026-12-17",
+      "city": "Online",
+      "country": "",
+      "format": "Virtual",
+      "deadlines": [],
+      "topics": [
+        "Human gut",
+        "Methods and bioinformatics"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Free",
+      "priceSrc": "pub",
+      "note": "Free recurring virtual forum, run in sessions across time zones. Recordings are posted online.",
+      "url": "https://www.microbiome-vif.org/",
+      "src": "https://github.com/SvetlanaUP/Microbiome-conferences-c"
+    }
+  ]
+}
