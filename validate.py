@@ -8,7 +8,7 @@ ALLOWED = {
     "format": {"In person", "Hybrid", "Virtual"},
     "orgType": {"Society", "Nonprofit", "Academic", "Commercial"},
     "size": {"Under 100", "100 to 500", "500 to 2000", "Over 2000"},
-    "price": {"Free", "Under $500", "$500 to $1000", "Over $1000", "Not yet checked"},
+    "price": {"Free", "Under $500", "$500 to $1000", "Over $1000", "Not released"},
     "src": {"pub", "est", ""},
 }
 TOPICS = {

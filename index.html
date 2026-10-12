@@ -155,8 +155,8 @@ footer{font-size:.85rem;color:var(--muted);border-top:1px solid var(--line);padd
       <input type="search" id="q" placeholder="Search by name, organizer, city, or topic" aria-label="Search">
       <label class="toggle" for="sort">Sort
         <select id="sort">
-          <option value="deadline">Next deadline</option>
           <option value="start">Meeting date</option>
+          <option value="deadline">Next deadline</option>
           <option value="size">Expected size</option>
           <option value="name">Name</option>
         </select>
@@ -246,9 +246,9 @@ const FILTERS = {
   size:{el:"gSize",values:SIZE_ORDER,key:c=>c.size},
   topic:{el:"gTopic",values:valuesOf(c=>c.topics).sort(),key:c=>c.topics}
 };
-const state = {q:"",sort:"deadline",open:false,country:"",view:"cards",sel:Object.fromEntries(Object.keys(FILTERS).map(k=>[k,new Set()]))};
-try{ const s=JSON.parse(localStorage.getItem("mct-prefs")||"null"); if(s){ if(s.sort) state.sort=s.sort; if(s.view) state.view=s.view; } }catch(e){}
-const savePrefs = () => { try{ localStorage.setItem("mct-prefs",JSON.stringify({sort:state.sort,view:state.view})); }catch(e){} };
+const state = {q:"",sort:"start",open:false,country:"",view:"cards",sel:Object.fromEntries(Object.keys(FILTERS).map(k=>[k,new Set()]))};
+try{ const s=JSON.parse(localStorage.getItem("mct-prefs-v2")||"null"); if(s){ if(s.sort) state.sort=s.sort; if(s.view) state.view=s.view; } }catch(e){}
+const savePrefs = () => { try{ localStorage.setItem("mct-prefs-v2",JSON.stringify({sort:state.sort,view:state.view})); }catch(e){} };
 
 for(const [name,f] of Object.entries(FILTERS)){
   const g=document.getElementById(f.el);
