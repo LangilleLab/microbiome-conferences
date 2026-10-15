@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-10-12",
+  "last_verified": "2026-10-15",
   "conferences": [
     {
       "name": "Immunomodulatory Microbiota in Health and Disease",
@@ -40,7 +40,7 @@
       "note": "Held jointly with Early Life Immunity and Tolerance. Regular in person registration is $1,595 USD (student $1,045); livestream $550. Scholarships available.",
       "url": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/L62027",
       "src": "https://www.keystonesymposia.org/digital-toolkit/L62027",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Advancing Women's Health: Vaginal Microbiome Science and Innovation",
@@ -53,6 +53,10 @@
       "country": "Singapore",
       "format": "Hybrid",
       "deadlines": [
+        {
+          "k": "Short talk abstract",
+          "d": "2026-12-10"
+        },
         {
           "k": "Scholarship (abstract due)",
           "d": "2026-12-10"
@@ -77,7 +81,7 @@
       "note": "Regular in person registration is $1,495 USD (student $945); livestream $550. Scholarship applicants need an abstract and a mentor letter by the scholarship deadline.",
       "url": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/G12027",
       "src": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/deadlines/G12027",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Microbial metagenomics: a 360º approach",
@@ -106,7 +110,7 @@
       "note": "Hands on training course. Fee is €550 for academics and PhD students (€1,000 industry), including accommodation. Places are selective.",
       "url": "https://www.embl.org/about/info/course-and-conference-office/events/met27-01/",
       "src": "https://www.embl.org/about/info/course-and-conference-office/events/met27-01/",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "FEMS MICRO Ljubljana 2027",
@@ -135,7 +139,7 @@
       "note": "Biennial. Early bird registration runs March 15 to April 14, 2027. FEMS grants and awards can be requested when submitting an abstract. The 2025 congress drew over 2000 participants from more than 95 countries.",
       "url": "https://www.femsmicro.org/",
       "src": "https://www.smd.si/?p=2994",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Pharmabiotics Conference 2027",
@@ -165,7 +169,7 @@
       "note": "11th edition. Focus on development and regulation of microbiome based medicines, with academic, industry and regulator speakers.",
       "url": "https://www.pharmabioticsevent.com/",
       "src": "https://www.pharmabioticsevent.com/upload/Sponsorship%20Invitation.pdf",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Gut Microbiota for Health Conference 2027",
@@ -195,7 +199,7 @@
       "note": "One and a half day, in person only meeting aimed at gastroenterologists, clinicians and researchers. Registration is £100 (£50 for BSG members).",
       "url": "https://www.bsg.org.uk/events/bsg-gut-microbiota-for-health-conference-2027",
       "src": "https://www.bsg.org.uk/events/bsg-gut-microbiota-for-health-conference-2027",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Gut Microbiota for Health World Summit 2027",
@@ -227,7 +231,7 @@
       "note": "Annual summit held each March (Porto 2026, Washington 2025).",
       "url": "https://www.gutmicrobiotaforhealth.com/",
       "src": "https://www.esnm.eu/gut-microbiota-for-health.html",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Microbiology Society Annual Conference 2027",
@@ -256,7 +260,7 @@
       "note": "Four days at ICC Birmingham. Members receive heavily subsidised registration.",
       "url": "https://microbiologysociety.org/event/annual-conference-2027-register-interest.html",
       "src": "https://microbiologysociety.org/event/annual-conference-2027-register-interest.html",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "15th International Gut Microbiology Symposium",
@@ -287,7 +291,7 @@
       "note": "Biennial. Covers gut microbiology of humans, farm animals, birds and fish, plus genomics and metagenomics methods. Standard academic registration is £590 (student and early career £430), with lower early bird rates. Typically 200 to 400 delegates.",
       "url": "https://www.abdn.ac.uk/gutmicro2027",
       "src": "https://www.abdn.ac.uk/events/conferences/15th-international-gut-microbiology-symposium/registration",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "The Barcelona Debates on the Human Microbiome",
@@ -317,7 +321,7 @@
       "note": "13th edition. The 2026 meeting had over 200 participants, and every accepted abstract was presented as a poster flash talk.",
       "url": "https://bcnmicrobiome.com/",
       "src": "https://bcnmicrobiome.com/",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "ASM Microbe 2027",
@@ -347,7 +351,7 @@
       "note": "Largest annual microbiology meeting, at McCormick Place. Broad scope with substantial microbiome content.",
       "url": "https://asm.org/events/asm-microbe/home",
       "src": "https://asm.org/events/asm-microbe/home",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Canadian Society of Microbiologists Annual Conference 2027",
@@ -379,7 +383,7 @@
       "note": "Annual meeting, usually in mid June. Sections cover applied and environmental microbiology, infection and immunity, and molecular genetics. Trainee talks selected from abstracts.",
       "url": "https://csm-scm.org/",
       "src": "https://epic.utoronto.ca/?p=7669",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "International Probiotics Conference (IPC 2027)",
@@ -409,7 +413,7 @@
       "note": "Long running scientific conference, run by a trade publisher since 2026. Mixed academic and industry audience.",
       "url": "https://www.international-probiotic-conference.com/",
       "src": "https://www.nutraingredients.com/Events/international-probiotics-conference-2027-ipc/",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "New Approaches and Concepts in Microbiology",
@@ -439,7 +443,7 @@
       "note": "Biennial, 8th edition. On site registration is €750 for academics (€650 PhD students); virtual €240. Bacterial communities and microbiomes, with an emphasis on new technologies.",
       "url": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-07",
       "src": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-07",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Microbial Population Biology GRC",
@@ -455,7 +459,7 @@
         {
           "k": "Application",
           "d": null,
-          "tba": "Not announced"
+          "tba": "Not announced on the GRC site (a UW Madison calendar lists May 30, 2027)"
         }
       ],
       "topics": [
@@ -468,24 +472,25 @@
       "note": "Biennial. Attendance is by application, and the fee usually covers lodging and meals.",
       "url": "https://www.grc.org/microbial-population-biology-conference/2027/",
       "src": "https://cairibu.urology.wisc.edu/event/microbial-population-biology-grc-meeting/",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "International Meeting on Microbial Genomes (Lake Arrowhead)",
       "series": "Lake Arrowhead Microbial Genomes",
       "org": "Microbial genomics community organizers",
       "orgType": "Academic",
-      "start": null,
-      "expect": "Next edition not yet announced",
-      "approx": null,
+      "start": "2027-09-26",
       "city": "Lake Arrowhead, CA",
       "country": "United States",
       "format": "In person",
       "deadlines": [
         {
-          "k": "Abstract",
-          "d": null,
-          "tba": "Not announced"
+          "k": "Oral abstract",
+          "d": "2027-05-01"
+        },
+        {
+          "k": "Poster abstract",
+          "d": "2027-08-01"
         }
       ],
       "topics": [
@@ -496,9 +501,11 @@
       "sizeSrc": "est",
       "price": "Not released",
       "priceSrc": "",
-      "note": "Long running microbial genomics meeting. The 21st meeting was held September 18 to 22, 2024. Watch for the next announcement.",
-      "url": "https://microbe.net/tag/lamg",
-      "src": "https://microbe.net/tag/lamg"
+      "note": "25th meeting, at the UCLA Lake Arrowhead Conference Center. Abstract submission opens January 15, 2027. The 24th meeting was held September 15 to 19, 2024. Registration fees are not yet published.",
+      "url": "https://www.lamg.info/program",
+      "src": "https://www.lamg.info/abstracts",
+      "end": "2027-09-30",
+      "verified": "2026-10-15"
     },
     {
       "name": "The Peer Bork Symposium on the Human Microbiome",
@@ -529,7 +536,7 @@
       "note": "Dedicated to the memory of Peer Bork, who helped shape this series from its first meeting in 2018. Known for unpublished work.",
       "url": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-08/",
       "src": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-08/",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "12th International Human Microbiome Consortium Congress (IHMC)",
@@ -561,7 +568,7 @@
       "note": "Biennial congress. The 11th was held June 3 to 5, 2026 in Seoul, Korea. The 2028 location has not been announced; the link goes to the 2026 site.",
       "url": "https://www.ihmc2026seoul.com/",
       "src": "https://www.ihmc2026seoul.com/",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Canadian Society of Microbiologists Annual Conference 2028",
@@ -592,7 +599,7 @@
       "note": "Confirmed at the Québec City Convention Centre.",
       "url": "https://csm-scm.org/",
       "src": "https://www.convention.qc.ca/en/event-calendar/csm-annual-conference-2028/",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "21st International Symposium on Microbial Ecology (ISME21)",
@@ -624,7 +631,7 @@
       "note": "Biennial, held in even years, usually in August. A typical symposium has about 2000 attendees, 2100 abstracts and around 80 travel awards.",
       "url": "https://isme-microbes.org/",
       "src": "https://fems-microbiology.org/?p=37108",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Microbiome (Cold Spring Harbor Meeting)",
@@ -651,10 +658,10 @@
       "sizeSrc": "est",
       "price": "Over $1000",
       "priceSrc": "pub",
-      "note": "Fifth meeting in the series. Academic registration without housing is $1,240 USD; virtual attendance is $370 (students $230).",
+      "note": "Fifth meeting in the series. Academic registration without housing is $1,240 USD; virtual attendance is $370 (students $230). Late fees apply after October 22, 2026.",
       "url": "https://meetings.cshl.edu/meetings.aspx?meet=BIOME",
       "src": "https://meetings.cshl.edu/meetings.aspx?meet=BIOME",
-      "verified": "2026-10-12"
+      "verified": "2026-10-15"
     },
     {
       "name": "Microbiome Virtual International Forum (MVIF)",
@@ -679,6 +686,78 @@
       "url": "https://www.microbiome-vif.org/",
       "src": "https://www.microbiome-vif.org/",
       "verified": "2026-10-12"
+    },
+    {
+      "name": "Food System Microbiomes 2027",
+      "series": "Food System Microbiomes",
+      "org": "Microbiome Support Association, AIT Austrian Institute of Technology and ÖGMBT",
+      "orgType": "Nonprofit",
+      "start": "2027-10-18",
+      "end": "2027-10-21",
+      "city": "Paris",
+      "country": "France",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Probiotics and diet",
+        "Plant microbiome",
+        "Animal and One Health"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not released",
+      "priceSrc": "",
+      "note": "International conference on microbiomes across the food system, covering agriculture, food production, fermentation and food safety. Programme, format and registration details are still to come.",
+      "url": "https://foodsystemsmicrobiomes.org/",
+      "src": "https://foodsystemsmicrobiomes.org/",
+      "verified": "2026-10-15"
+    },
+    {
+      "name": "The Microbiome Throughout Life 2027",
+      "series": "Microbiome Throughout Life",
+      "org": "PROevents International with the MBTL Community",
+      "orgType": "Commercial",
+      "start": "2027-11-11",
+      "end": "2027-11-13",
+      "city": "Bucharest",
+      "country": "Romania",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Super early registration",
+          "d": "2027-02-15"
+        },
+        {
+          "k": "Abstract",
+          "d": "2027-04-30"
+        },
+        {
+          "k": "Early registration",
+          "d": "2027-07-15"
+        },
+        {
+          "k": "Late breaking poster",
+          "d": "2027-09-15"
+        }
+      ],
+      "topics": [
+        "Clinical and translational",
+        "Human gut"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not released",
+      "priceSrc": "",
+      "note": "Second edition, after Belgrade 2026. Clinically oriented, with workshops and clinical cases. Abstract submission opened October 15, 2026; the organizers call the deadlines provisional.",
+      "url": "https://microbiometolife.com/",
+      "src": "https://microbiometolife.com/",
+      "verified": "2026-10-15"
     }
   ]
 }
