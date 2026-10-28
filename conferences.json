@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-28",
   "conferences": [
     {
       "name": "Immunomodulatory Microbiota in Health and Disease",
@@ -40,7 +40,7 @@
       "note": "Held jointly with Early Life Immunity and Tolerance. Regular in person registration is $1,595 USD (student $1,045); livestream $550. Scholarships available.",
       "url": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/L62027",
       "src": "https://www.keystonesymposia.org/digital-toolkit/L62027",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Advancing Women's Health: Vaginal Microbiome Science and Innovation",
@@ -81,7 +81,7 @@
       "note": "Regular in person registration is $1,495 USD (student $945); livestream $550. Scholarship applicants need an abstract and a mentor letter by the scholarship deadline.",
       "url": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/G12027",
       "src": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/deadlines/G12027",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Microbial metagenomics: a 360º approach",
@@ -110,7 +110,7 @@
       "note": "Hands on training course limited to 20 participants. Fee is €550 for academics and PhD students (€1,000 industry), including accommodation. Places are selective.",
       "url": "https://www.embl.org/about/info/course-and-conference-office/events/met27-01/",
       "src": "https://www.embl.org/about/info/course-and-conference-office/events/met27-01/",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "FEMS MICRO Ljubljana 2027",
@@ -139,7 +139,7 @@
       "note": "Biennial. Early bird registration runs March 15 to April 14, 2027. FEMS grants and awards can be requested when submitting an abstract. The 2025 congress drew over 2000 participants from more than 95 countries.",
       "url": "https://www.femsmicro.org/",
       "src": "https://www.smd.si/?p=2994",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Pharmabiotics Conference 2027",
@@ -169,10 +169,10 @@
       "sizeSrc": "est",
       "price": "$500 to $1000",
       "priceSrc": "pub",
-      "note": "11th edition. Focus on development and regulation of microbiome based medicines, with academic, industry and regulator speakers. Regular academic registration is €720 excluding VAT (€650 early rate until October 31, 2026; industry €1,350). About 20 abstracts will be selected as posters, a few of them for short talks; acceptance notices by December 10, 2026.",
+      "note": "11th edition. Focus on development and regulation of microbiome based medicines, with academic, industry and regulator speakers. Regular academic registration is €720 excluding 21% Belgian VAT (€650 early rate until October 31, 2026; industry €1,350; PhD and Master students €410 early). About 20 abstracts will be selected as posters, a few of them for short talks; acceptance notices by December 10, 2026.",
       "url": "https://www.pharmabioticsevent.com/",
       "src": "https://www.pharmabioticsevent.com/inscriptions/en/registration/5",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Gut Microbiota for Health Conference 2027",
@@ -202,7 +202,7 @@
       "note": "One and a half day, in person only meeting aimed at gastroenterologists, clinicians and researchers. Registration is £100 (£50 for BSG members).",
       "url": "https://www.bsg.org.uk/events/bsg-gut-microbiota-for-health-conference-2027",
       "src": "https://www.bsg.org.uk/events/bsg-gut-microbiota-for-health-conference-2027",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Gut Microbiota for Health World Summit 2027",
@@ -234,7 +234,7 @@
       "note": "Annual summit held each March (Porto 2026, Washington 2025).",
       "url": "https://www.gutmicrobiotaforhealth.com/",
       "src": "https://www.esnm.eu/gut-microbiota-for-health.html",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Microbiology Society Annual Conference 2027",
@@ -263,7 +263,7 @@
       "note": "Four days at ICC Birmingham. Members receive heavily subsidised registration.",
       "url": "https://microbiologysociety.org/event/annual-conference-2027-register-interest.html",
       "src": "https://microbiologysociety.org/event/annual-conference-2027-register-interest.html",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "15th International Gut Microbiology Symposium",
@@ -294,7 +294,7 @@
       "note": "Biennial. Covers gut microbiology of humans, farm animals, birds and fish, plus genomics and metagenomics methods. Standard academic registration is £590 (student and early career £430), with lower early bird rates. Typically 200 to 400 delegates.",
       "url": "https://www.abdn.ac.uk/gutmicro2027",
       "src": "https://www.abdn.ac.uk/events/conferences/15th-international-gut-microbiology-symposium/registration",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "The Barcelona Debates on the Human Microbiome",
@@ -324,7 +324,7 @@
       "note": "13th edition. The 2026 meeting had over 200 participants, and every accepted abstract was presented as a poster flash talk.",
       "url": "https://bcnmicrobiome.com/",
       "src": "https://bcnmicrobiome.com/",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "ASM Microbe 2027",
@@ -349,22 +349,20 @@
       ],
       "size": "Over 2000",
       "sizeSrc": "est",
-      "price": "$500 to $1000",
+      "price": "Over $1000",
       "priceSrc": "est",
-      "note": "Largest annual microbiology meeting, at McCormick Place. Broad scope with substantial microbiome content.",
+      "note": "Largest annual microbiology meeting, at McCormick Place. Broad scope with substantial microbiome content. 2027 fees are not yet published; the 2026 non member rate was $1,500.",
       "url": "https://asm.org/events/asm-microbe/home",
       "src": "https://asm.org/events/asm-microbe/home",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Canadian Society of Microbiologists Annual Conference 2027",
       "series": "CSM Annual Conference",
       "org": "Canadian Society of Microbiologists",
       "orgType": "Society",
-      "start": null,
-      "expect": "Expected June 2027",
-      "approx": "2027-06-15",
-      "city": "To be announced",
+      "start": "2027-06-06",
+      "city": "Ottawa, ON",
       "country": "Canada",
       "format": "In person",
       "deadlines": [
@@ -383,10 +381,11 @@
       "sizeSrc": "est",
       "price": "Not released",
       "priceSrc": "",
-      "note": "Annual meeting, usually in mid June. Sections cover applied and environmental microbiology, infection and immunity, and molecular genetics. Trainee talks selected from abstracts.",
+      "note": "76th annual conference, hosted by the University of Ottawa on the uOttawa campus and at the neighbouring Rogers Centre. Sections cover applied and environmental microbiology, infection and immunity, and molecular genetics. Trainee talks selected from abstracts. The conference website is expected in December 2026. The 2028 meeting is set for June 18 to 21 in Quebec City.",
       "url": "https://csm-scm.org/",
-      "src": "https://epic.utoronto.ca/?p=7669",
-      "verified": "2026-10-15"
+      "src": "https://csm-scm.org/?p=21",
+      "verified": "2026-10-28",
+      "end": "2027-06-09"
     },
     {
       "name": "International Probiotics Conference (IPC 2027)",
@@ -434,8 +433,15 @@
       "deadlines": [
         {
           "k": "Abstract",
-          "d": null,
-          "tba": "Registration not yet open"
+          "d": "2027-03-16"
+        },
+        {
+          "k": "On site registration",
+          "d": "2027-05-11"
+        },
+        {
+          "k": "Virtual registration",
+          "d": "2027-06-15"
         }
       ],
       "topics": [
@@ -446,10 +452,10 @@
       "sizeSrc": "est",
       "price": "$500 to $1000",
       "priceSrc": "pub",
-      "note": "Biennial, 8th edition. On site registration is €750 for academics (€650 PhD students); virtual €240. Bacterial communities and microbiomes, with an emphasis on new technologies.",
+      "note": "Biennial, 8th edition. On site registration is €750 for academics (€650 PhD students, €950 industry); virtual €240. Virtual attendees cannot submit abstracts. Registration fee waivers, travel grants and childcare grants are offered. Bacterial communities and microbiomes, with an emphasis on new technologies.",
       "url": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-07",
       "src": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-07",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Microbial Population Biology GRC",
@@ -478,7 +484,7 @@
       "note": "Biennial. Attendance is by application, and the fee usually covers lodging and meals.",
       "url": "https://www.grc.org/microbial-population-biology-conference/2027/",
       "src": "https://cairibu.urology.wisc.edu/event/microbial-population-biology-grc-meeting/",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "International Meeting on Microbial Genomes (Lake Arrowhead)",
@@ -546,7 +552,7 @@
       "note": "Dedicated to the memory of Peer Bork, who helped shape this series from its first meeting in 2018. Known for unpublished work.",
       "url": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-08/",
       "src": "https://www.embl.org/about/info/course-and-conference-office/events/ees27-08/",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "12th International Human Microbiome Consortium Congress (IHMC)",
@@ -578,7 +584,7 @@
       "note": "Biennial congress. The 11th was held June 3 to 5, 2026 in Seoul, Korea. The 2028 location has not been announced; the link goes to the 2026 site.",
       "url": "https://www.ihmc2026seoul.com/",
       "src": "https://www.ihmc2026seoul.com/",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Canadian Society of Microbiologists Annual Conference 2028",
@@ -609,7 +615,7 @@
       "note": "Confirmed at the Québec City Convention Centre.",
       "url": "https://csm-scm.org/",
       "src": "https://www.convention.qc.ca/en/event-calendar/csm-annual-conference-2028/",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "21st International Symposium on Microbial Ecology (ISME21)",
@@ -619,8 +625,8 @@
       "start": null,
       "expect": "Expected August 2028",
       "approx": "2028-08-15",
-      "city": "To be announced",
-      "country": "",
+      "city": "Vancouver, BC",
+      "country": "Canada",
       "format": "In person",
       "deadlines": [
         {
@@ -638,10 +644,10 @@
       "sizeSrc": "pub",
       "price": "Not released",
       "priceSrc": "",
-      "note": "Biennial, held in even years, usually in August. A typical symposium has about 2000 attendees, 2100 abstracts and around 80 travel awards.",
+      "note": "Biennial, held in even years, usually in August. ISME lists ISME21 in Vancouver, Canada, in August 2028 as a confirmed future symposium; exact dates are not yet announced. The symposium attracts 1500 to 2500 delegates, with around 80 travel awards.",
       "url": "https://isme-microbes.org/",
-      "src": "https://fems-microbiology.org/opportunities/20th-international-symposium-on-microbial-ecology-isme20/",
-      "verified": "2026-10-15"
+      "src": "https://isme-microbes.org/public/conference/63/page/",
+      "verified": "2026-10-28"
     },
     {
       "name": "Microbiome (Cold Spring Harbor Meeting)",
@@ -671,7 +677,7 @@
       "note": "Fifth meeting in the series. Academic registration without housing is $1,240 USD; virtual attendance is $370 (students $230). Late fees apply after October 22, 2026.",
       "url": "https://meetings.cshl.edu/meetings.aspx?meet=BIOME",
       "src": "https://meetings.cshl.edu/meetings.aspx?meet=BIOME",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Microbiome Virtual International Forum (MVIF)",
@@ -798,7 +804,7 @@
       "note": "Two day meeting at the Andaz Hotel with tracks on the women's health microbiome, host microbiome therapeutics, the gut organ axis, and rapid metagenomics, antimicrobial resistance and sepsis. Offers 12 CPD points.",
       "url": "https://sidraweb.sidra.org/events/research/mena-microbiome-conference-2026/",
       "src": "https://sidraweb.sidra.org/events/research/mena-microbiome-conference-2026/",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "IUMS Congress 2026",
@@ -857,7 +863,7 @@
       "note": "13th ISM annual meeting on microbiota targeted therapies such as fecal microbiota transplantation, probiotics and live biotherapeutics. Key dates and fees appear only as images on the site.",
       "url": "https://www.microbiota-ism.com/",
       "src": "https://www.microbiota-ism.com/",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "9th International Conference on Microbiome Engineering (ICME 2026)",
@@ -891,7 +897,7 @@
       "note": "Engineering and synthetic biology of microbiomes for health, agriculture and the environment, at the DoubleTree Raleigh Durham Airport at Research Triangle Park. Regular academic registration is $895 USD for non members ($795 members).",
       "url": "https://www.aiche.org/sbe/conferences/international-conference-on-microbiome-engineering/2026",
       "src": "https://www.aiche.org/sbe/conferences/international-conference-on-microbiome-engineering/2026/registration-info-icme-2026",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Global Virome in Health and Disease: From Individuals to Ecosystems",
@@ -932,7 +938,7 @@
       "note": "Held jointly with Vector Pathogen Interactions at the Crowne Plaza Geneva. Covers the human and global virome, including phages, in health, disease and ecosystems. Regular in person registration is $1,595 USD (student $1,045); livestream $550.",
       "url": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/program-highlights/K12027",
       "src": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/deadlines/K12027",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "VAAM Annual Conference 2027",
@@ -961,7 +967,7 @@
       "note": "Annual congress of the German society for general and applied microbiology. Further details, including abstract submission and registration, are still to come.",
       "url": "https://vaam-kongress.de/",
       "src": "https://vaam-kongress.de/",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Marine Microbial Chemical Communication",
@@ -1056,7 +1062,7 @@
       "note": "Virtual course on genome resolved metagenomics using MGnify, ENA and InterPro. 35 places, selected by application. Fee is £250 for academics (£350 industry).",
       "url": "https://www.ebi.ac.uk/training/events/metagenomics-bioinformatics-2027/",
       "src": "https://www.ebi.ac.uk/training/events/metagenomics-bioinformatics-2027/",
-      "verified": "2026-10-15"
+      "verified": "2026-10-28"
     },
     {
       "name": "Microbiology of the Built Environment GRC",
@@ -1071,8 +1077,7 @@
       "deadlines": [
         {
           "k": "Application",
-          "d": null,
-          "tba": "Not announced"
+          "d": "2027-06-13"
         }
       ],
       "topics": [
@@ -1081,12 +1086,12 @@
       ],
       "size": "100 to 500",
       "sizeSrc": "est",
-      "price": "Not released",
-      "priceSrc": "",
-      "note": "Theme: Defining and Designing Healthy Indoor Ecosystems. Attendance is by application, and the fee usually covers lodging and meals.",
+      "price": "Over $1000",
+      "priceSrc": "pub",
+      "note": "Theme: Defining and Designing Healthy Indoor Ecosystems. Held at Waterville Valley Resort. Attendance is by application. Conferee fee is $1,815 USD with a single room, $1,620 with a shared room, or $1,165 off site, covering lodging and meals for on site options.",
       "url": "https://www.grc.org/microbiology-of-the-built-environment-conference/2027/",
-      "src": "https://www.grc.org/microbiology-of-the-built-environment-conference/",
-      "verified": "2026-10-15"
+      "src": "https://www.grc.org/microbiology-of-the-built-environment-conference/2027/",
+      "verified": "2026-10-28"
     },
     {
       "name": "Applied and Environmental Microbiology GRC",
@@ -1118,6 +1123,304 @@
       "url": "https://www.grc.org/applied-and-environmental-microbiology-conference/2027/",
       "src": "https://www.grc.org/applied-and-environmental-microbiology-conference/",
       "verified": "2026-10-15"
+    },
+    {
+      "name": "Plant and Microbe Engineering for Sustainability",
+      "series": "Keystone Symposia",
+      "org": "Keystone Symposia",
+      "orgType": "Nonprofit",
+      "start": "2027-05-02",
+      "end": "2027-05-05",
+      "city": "Vancouver, BC",
+      "country": "Canada",
+      "format": "Hybrid",
+      "deadlines": [
+        {
+          "k": "Short talk abstract",
+          "d": "2027-01-05"
+        },
+        {
+          "k": "Scholarship",
+          "d": "2027-01-05"
+        },
+        {
+          "k": "Early registration",
+          "d": "2027-03-03"
+        },
+        {
+          "k": "Poster abstract",
+          "d": "2027-04-12"
+        }
+      ],
+      "topics": [
+        "Plant microbiome",
+        "Environmental microbiology",
+        "Host microbe interactions"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Over $1000",
+      "priceSrc": "est",
+      "note": "Held jointly with Receptor Kinase Signaling: Fueling Plant Resilience and Development at the Fairmont Hotel Vancouver. Offered in person, by livestream and on demand. Fees are not yet shown on the page.",
+      "url": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/n22027",
+      "src": "https://www.keystonesymposia.org/conferences/conference-listing/meeting/n22027",
+      "verified": "2026-10-28"
+    },
+    {
+      "name": "2027 IS-MPMI Congress",
+      "series": "IS-MPMI Congress",
+      "org": "International Society for Molecular Plant-Microbe Interactions",
+      "orgType": "Society",
+      "start": "2027-07-18",
+      "end": "2027-07-22",
+      "city": "Jeju",
+      "country": "South Korea",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Satellite symposium or workshop proposal",
+          "d": "2026-12-04"
+        },
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Plant microbiome",
+        "Host microbe interactions",
+        "Immunology"
+      ],
+      "size": "500 to 2000",
+      "sizeSrc": "pub",
+      "price": "Not released",
+      "priceSrc": "",
+      "note": "Biennial congress on molecular plant microbe interactions, which the society says draws well over a thousand scientists. The schedule and fees are marked coming soon.",
+      "url": "https://ismpmi.org/events/2027-is-mpmi-congress/",
+      "src": "https://ismpmi.org/events/2027-is-mpmi-congress/",
+      "verified": "2026-10-28"
+    },
+    {
+      "name": "Microbial Adhesion and Signal Transduction GRC",
+      "series": "Gordon Research Conferences",
+      "org": "Gordon Research Conferences",
+      "orgType": "Nonprofit",
+      "start": "2027-07-18",
+      "end": "2027-07-23",
+      "city": "Newport, RI",
+      "country": "United States",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Application",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Host microbe interactions",
+        "General microbiology",
+        "Ecology and evolution"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not released",
+      "priceSrc": "",
+      "note": "Held at Salve Regina University. The 2027 theme is Microbial Sensing and Adaptation: Determinants of Colonization, Persistence, and Community Behavior. Attendance is by application, and the fee usually covers lodging and meals.",
+      "url": "https://www.grc.org/microbial-adhesion-and-signal-transduction-conference",
+      "src": "https://grc.org/microbial-adhesion-and-signal-transduction-conference",
+      "verified": "2026-10-28"
+    },
+    {
+      "name": "Microbial Pathogenesis and Host Response 2027",
+      "series": "CSHL Meetings",
+      "org": "Cold Spring Harbor Laboratory",
+      "orgType": "Academic",
+      "start": "2027-09-14",
+      "end": "2027-09-18",
+      "city": "Cold Spring Harbor, NY",
+      "country": "United States",
+      "format": "Hybrid",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": "2027-06-25"
+        }
+      ],
+      "topics": [
+        "Host microbe interactions",
+        "Immunology",
+        "General microbiology"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Over $1000",
+      "priceSrc": "est",
+      "note": "Biennial CSHL meeting. The page lists an academic rate without housing of $1,280 and a virtual package of $380, but parts of the page still carry 2025 details, so fees should be confirmed nearer the time.",
+      "url": "https://meetings.cshl.edu/meetings.aspx?meet=HOST",
+      "src": "https://meetings.cshl.edu/meetings.aspx?meet=HOST",
+      "verified": "2026-10-28"
+    },
+    {
+      "name": "Australian Society for Microbiology National Meeting 2027",
+      "series": "ASM Australia National Meeting",
+      "org": "Australian Society for Microbiology",
+      "orgType": "Society",
+      "start": "2027-07-12",
+      "end": "2027-07-15",
+      "city": "Sydney",
+      "country": "Australia",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "General microbiology",
+        "Clinical and translational",
+        "Environmental microbiology"
+      ],
+      "size": "500 to 2000",
+      "sizeSrc": "est",
+      "price": "Not released",
+      "priceSrc": "",
+      "note": "Annual national meeting of the Australian Society for Microbiology, held at ICC Sydney.",
+      "url": "https://www.theasm.org.au/asm-conferences-and-events/asm-national-meeting-2027",
+      "src": "https://www.theasm.org.au/asm-conferences-and-events/asm-national-meeting-2027",
+      "verified": "2026-10-28"
+    },
+    {
+      "name": "Probiota 2027",
+      "series": "Probiota",
+      "org": "NutraIngredients (William Reed)",
+      "orgType": "Commercial",
+      "start": "2027-02-09",
+      "end": "2027-02-11",
+      "city": "Berlin",
+      "country": "Germany",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Registration",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Probiotics and diet",
+        "Human gut",
+        "Therapeutics and regulation"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Over $1000",
+      "priceSrc": "est",
+      "note": "Commercial industry event on probiotics, prebiotics and microbiome business, held at Estrel Berlin. Only a register interest link is open so far.",
+      "url": "https://www.nutraingredients.com/Events/probiota-2027/",
+      "src": "https://www.nutraingredients.com/Events/probiota-2027/",
+      "verified": "2026-10-28"
+    },
+    {
+      "name": "Probiota Americas 2027",
+      "series": "Probiota",
+      "org": "NutraIngredients (William Reed)",
+      "orgType": "Commercial",
+      "start": "2027-06-09",
+      "end": "2027-06-11",
+      "city": "Everett, MA",
+      "country": "United States",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Registration",
+          "d": null,
+          "tba": "Not announced"
+        }
+      ],
+      "topics": [
+        "Probiotics and diet",
+        "Human gut",
+        "Therapeutics and regulation"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Over $1000",
+      "priceSrc": "est",
+      "note": "Commercial North American event on microbiome science and business at Encore Boston Harbor. The listing gives both June 11 and June 12 as the final day.",
+      "url": "https://www.nutraingredients.com/Events/probiota-americas-2027/",
+      "src": "https://www.nutraingredients.com/Events/probiota-americas-2027/",
+      "verified": "2026-10-28"
+    },
+    {
+      "name": "4th Copenhagen Gut Microbiome Symposium",
+      "series": "Copenhagen Gut Microbiome Symposium",
+      "org": "University of Copenhagen",
+      "orgType": "Academic",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Talk abstract",
+          "d": "2026-09-25"
+        },
+        {
+          "k": "Poster abstract",
+          "d": "2026-11-01"
+        },
+        {
+          "k": "Registration",
+          "d": "2026-11-01"
+        }
+      ],
+      "topics": [
+        "Human gut",
+        "Host microbe interactions",
+        "Clinical and translational"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not released",
+      "priceSrc": "",
+      "note": "One day of keynote talks, posters and networking in the Lundgaard auditorium on Blegdamsvej. Registration is first come, first served. No fee is stated.",
+      "url": "https://cphgut.ku.dk/events/symposium-november-2026",
+      "src": "https://cphgut.ku.dk/events/symposium-november-2026",
+      "verified": "2026-10-28"
+    },
+    {
+      "name": "XII Meeting of the SEM Plant Microbiology Group (MIP 2027)",
+      "series": "SEM Plant Microbiology Group Meeting",
+      "org": "Sociedad Española de Microbiología",
+      "orgType": "Society",
+      "start": "2027-01-27",
+      "end": "2027-01-29",
+      "city": "Palencia",
+      "country": "Spain",
+      "format": "In person",
+      "deadlines": [
+        {
+          "k": "Abstract",
+          "d": "2026-10-23"
+        }
+      ],
+      "topics": [
+        "Plant microbiome",
+        "Environmental microbiology"
+      ],
+      "size": "100 to 500",
+      "sizeSrc": "est",
+      "price": "Not released",
+      "priceSrc": "",
+      "note": "Meeting of the plant microbiology group of the Spanish Society for Microbiology, held at the Provincial Cultural Center in Palencia. Abstract submission has closed but registration is open.",
+      "url": "https://www.semicrobiologia.org/en/events/xii-meeting-of-the-specialized-plant-microbiology-group",
+      "src": "https://www.semicrobiologia.org/en/events/xii-meeting-of-the-specialized-plant-microbiology-group",
+      "verified": "2026-10-28"
     }
   ]
 }
